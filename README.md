@@ -60,22 +60,10 @@ Plot the message signal, carrier signal, SSBSC modulated signal, and the recover
 ---
 
 ## TABULATION
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-24 at 2 54 48 PM" src="https://github.com/user-attachments/assets/b78b3a9b-188f-4b10-be22-7453b933e00b" />
 
-| Sl. No. | SIGNAL                 | AMPLITUDE (V) | FREQUENCY (Hz) |
-| ------- | ---------------------- | ------------- | -------------- |
-| **1**   | **Message Signal**     | **Theory:**   | **Practical:** |
-|         |                        |               | **Theory:**    |
-|         |                        |               | **Practical:** |
-| **2**   | **Carrier Signal**     | **Theory:**   | **Practical:** |
-|         |                        |               | **Theory:**    |
-|         |                        |               | **Practical:** |
-| **3**   | **Modulated Signal**   | **Practical** |                |
-|         |                        | **Emax =**    |                |
-|         |                        | **Emin =**    |                |
-| **4**   | **Demodulated Signal** | **Practical** |                |
-
----
 
 ## MODEL GRAPH
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-24 at 2 55 12 PM" src="https://github.com/user-attachments/assets/9b91d92f-ec23-417a-a95f-c0d874076371" />
 
 
